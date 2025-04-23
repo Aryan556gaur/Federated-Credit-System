@@ -17,3 +17,6 @@ A privacy-preserving credit scoring system using federated learning.
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
+
+3. Use temp.py for Round based implementation
+4. Use temp2.py for client based implementation.
