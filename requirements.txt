@@ -1,0 +1,8 @@
+streamlit==1.28.0
+tensorflow==2.10.1
+pandas==1.5.3
+numpy==1.23.5
+scikit-learn==1.2.0
+joblib==1.2.0
+altair==4.2.0
+protobuf==3.20.3
